@@ -13,5 +13,5 @@
 ![tu4](https://github.com/jianmo6666/Devcloud-Guide/blob/main/images/3f2d739b98b596c7860b9080b1c43b6.png?raw=true)
 
 6. 最后即可得到对比使用iVtal前后，ffmpeg的转码性能提升结果
-![tu5](https://github.com/jianmo6666/Devcloud-Guide/blob/main/images/8b6756bb976c930d123bf1f65844bc2.png?raw=true)
+![tu5](https://github.com/jianmo6666/Devcloud-Guide/blob/main/images/c8074aa88a0c48e0079dd4fa0a39803.png?raw=true)
 
