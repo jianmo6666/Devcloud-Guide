@@ -1,5 +1,6 @@
 点击图示图标，等待弹出下面的横框并点击
 ![图1](https://github.com/jianmo6666/Devcloud-Guide/blob/main/images/nginx1.png)
+
 屏幕下方弹出交互Shell，按以下命令进行测试
 ![图2](https://github.com/jianmo6666/Devcloud-Guide/blob/main/images/nginx2.png)
 
